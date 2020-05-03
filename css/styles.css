@@ -1,0 +1,100 @@
+body{
+  background-color:#ada6a0;
+
+  }
+
+img{
+  max-width: 100%;
+  margin: 10px;
+
+}
+
+.sitelogo{
+  width:250px;
+  margin:0 auto 0 auto;
+  display:block;
+}
+.navigation{
+  font-size: 20px;
+  margin:10px;
+  background-color: white;
+
+  }
+
+  .clear{
+    clear:both;
+
+  }
+  .container{
+    width:1160px;
+    margin:0 auto;
+
+  }
+
+  .navigation a{
+    margin:10px 10px 10px 10px;
+    color: black;
+
+    }
+    .house{
+      width:200px;
+      float:left;
+      margin-right: 20px;
+background-color: white;
+    }
+
+    .carpic{
+      width:200px;
+      float:left;
+      margin-left: 100px;
+background-color: white;
+}
+    .oldagehouse{
+      width:200px;
+      float:left;
+      margin: 5px;
+      margin-left: 100px;
+background-color: white;
+    }
+
+    .tree{
+      width:200px;
+      float:left;
+      margin-left: 100px;
+background-color: white;
+
+      }
+
+    .groupphotos{
+      width:200px;
+     background-color: white;
+        float:left;
+        margin:10px;
+
+
+     }
+     .paragraph{
+    float: right;
+    width: 920px;
+    padding: 10px;
+     }
+
+
+
+
+    .bottom-container a{
+margin:10px 10px 10px 20px;
+      color: black;
+      font-size: 20px;
+background-color: white;
+
+      }
+
+      .man{
+        float: right;
+        background-color: white;
+          margin-top: 20px;
+          margin-bottom: 25px;
+
+      }
+    
